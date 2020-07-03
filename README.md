@@ -58,7 +58,7 @@ El usuario administrador puede aprobar o rechazar las postulaciones de becas, en
 
 ## Motor de busqueda
 
-El motor de búsqueda de cursos debe contemplar los siguientes criterios:
+El motor de búsqueda de la app debe contemplar los siguientes criterios:
 
 * listar todo los cursos con cupos disponibles
 * listar todo los cursos con cupos disponibles y por categoria de curso
